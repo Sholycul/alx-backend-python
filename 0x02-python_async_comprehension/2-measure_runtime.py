@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 
 """ Module that contains a coroutine named measure_runtime
